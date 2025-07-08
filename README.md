@@ -4,7 +4,8 @@
 ---
 
 ### How to connect terminals??
-
+https://github.com/quarknihal/hangman/blob/main/README.md
+#### Just click this and find out!
 
 ---
 ## 🥳Boom! You are now connected to the same terminal!
